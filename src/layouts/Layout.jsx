@@ -5,7 +5,7 @@ function Layout({children}) {
     <>
       <header className={styles.header}>
         <h1>Book App</h1>
-        <p><a href="https://www.linkedin.com/in/ali-sadrsharif-525586348/">Ali Sadrsharif</a> | Book App</p>
+        <p><a href="https://www.linkedin.com/in/ali-sadrsharif-525586348/">Ali Sadrsharif</a> | My React Projects</p>
       </header>
       {children}
       <footer className={styles.footer}>
